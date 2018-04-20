@@ -221,7 +221,7 @@ TEAMS = {
         'division': 'Northwest',
         'id': '1610612750',
         'name': 'Timberwolves',
-        'color': '#003F70',
+        'color': '003F70',
         'colors': ['003F70', '006F42', 'BAC4CA', 'FFE211', 'DE2032', '000000']
     }, 'NOP': {
         'abbr': 'NOP',
@@ -233,7 +233,7 @@ TEAMS = {
         'division': 'Southwest',
         'id': '1610612740',
         'name': 'Pelicans',
-        'color': '#002B5C',
+        'color': '002B5C',
         'colors': ['002B5C', 'B4975A', 'E13A3E']
     }, 'NYK': {
         'abbr': 'NYK',
@@ -329,7 +329,7 @@ TEAMS = {
         'division': 'Southwest',
         'id': '1610612759',
         'name': 'Spurs',
-        'color': '#BA24CA',
+        'color': 'BA24CA',
         'colors': ['BA24CA', '000000']
     }, 'TOR': {
         'abbr': 'TOR',
@@ -353,7 +353,7 @@ TEAMS = {
         'division': 'Northwest',
         'id': '1610612762',
         'name': 'Jazz',
-        'color': '#002A5C',
+        'color': '002A5C',
         'colors': ['002A5C', '004812', 'FCB034', 'BACA4CA']
     }, 'WAS': {
         'abbr': 'WAS',
